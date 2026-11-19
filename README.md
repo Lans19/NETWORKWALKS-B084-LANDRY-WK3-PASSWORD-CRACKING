@@ -614,7 +614,7 @@ For future labs, I plan to:
 | Field | Details |
 |---|---|
 | Project title | Password Cracking with JTR & NetworkWalks Tools |
-| Focus area | Virtualisation, networking, Linux, and ethical hacking practice |
+| Focus area | Password cracking and ethical hacking |
 | Tools used | John the Ripper (JTR), Johnny, NetworkWalks online tools, Claude Desktop + HexStrike MCP |
 | Status | Completed |
 | Date | 18 November 2026 |
